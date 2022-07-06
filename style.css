@@ -1,0 +1,128 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+
+    text-align: center;
+
+}
+
+.bg-image {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-image: url(donation5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(254, 254, 254);
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: 700px;
+}
+
+.amount-selection {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.total-amounts {
+    display: flex;
+    margin: 70px 50px 50px 80px;
+}
+
+.amounts {
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 40px 40px;
+    background-image: linear-gradient(#f6f4f4, #f6f4f4);
+    border-radius: 5px;
+    color: gray;
+    font-weight: 900;
+
+
+}
+
+.middle {
+    background-image: linear-gradient(#fbb3b3, #fcb0b0);
+    border: solid #f33a3a;
+}
+
+.forms {
+    margin-bottom: 50px;
+    font-size: 20px;
+    width: 60%;
+    text-align: center;
+    border: none;
+    border-bottom: 3px solid rgb(224, 224, 224);
+}
+
+
+
+.our-donate-plans {
+    margin-bottom: 150px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+
+}
+
+.middle {
+
+    padding-bottom: 28px;
+    font-weight: 15px;
+}
+
+.plans {
+    display: flex;
+    margin: 1px 95px 5px 95px;
+}
+
+.education-plan {
+    height: 600px;
+    width: 40%;
+    margin-left: 5px;
+    margin-right: 5%;
+    padding: 30px;
+}
+
+.food {
+    background-image: linear-gradient(#b5b186, #F5F0BB);
+}
+
+.education {
+    background-image: linear-gradient(#53866b, #6caaa3);
+}
+
+.shelter {
+    background-image: linear-gradient(#99ac87, #99ac87);
+}
+
+
+
+footer {
+    margin-top: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    background-image: linear-gradient(#1e1b1b, #191919);
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+footer h1 {
+    font-size: 30px;
+    color: #ebeb05;
+}
+
+footer h4 {
+    color: #fcfcfc;
+
+}
