@@ -104,6 +104,22 @@ body {
     background-image: linear-gradient(#99ac87, #99ac87);
 }
 
+section2 {
+    display: flex;
+}
+
+section3 {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+}
+
+.half-width img {
+    width: 80%;
+    height: 100%;
+}
 
 
 footer {
